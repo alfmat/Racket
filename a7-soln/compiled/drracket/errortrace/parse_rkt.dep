@@ -1,0 +1,1 @@
+("7.9" racket ("7af82cc452d8944ccbb367a59898a63e750fd599" . "b02c3f87a785483a290cf87285f772629950b64a") #"C:\\Users\\alfre\\OneDrive - University of North Carolina at Chapel Hill\\Spring_2021\\COMP_524\\a7-soln\\lex.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"main.rkt"))

@@ -1,0 +1,1 @@
+I only looked at the racket documentation found at racket-lang.org and the assignment page on the course website.
